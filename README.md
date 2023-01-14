@@ -31,4 +31,4 @@
 | Zil Patel | PatelZil | Front-end Developer |
 | Viki Makadia | Viki4325 | Full Stack Developer |
 | Rutu Barvaliya | Rutu136 | Back-end Developer |
-| Parth Patel | Patelp24-git | Full Stack Developer|
+| *Parth Patel* | *patelp24-git* | *Full Stack Developer* |
